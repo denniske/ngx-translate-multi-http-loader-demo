@@ -1,0 +1,9 @@
+{
+  "HOME": {
+    "TITLE": "Hallo Angular mit ngx-translate !",
+    "SELECT": "Sprache ändern"
+  },
+  "HELP": {
+    "TITLE": "Hilfe"
+  }
+}
